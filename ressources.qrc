@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>905154302.png</file>
+        <file>planetgif.gif</file>
+        <file>Space Background.png</file>
+        <file>life.png</file>
+        <file>big_astro.gif</file>
+        <file>small_astro.gif</file>
+        <file>medium_astro.gif</file>
+        <file>S-Key.png</file>
+        <file>W-Key.png</file>
+        <file>A-Key.png</file>
+        <file>D-Key.png</file>
+    </qresource>
+</RCC>
