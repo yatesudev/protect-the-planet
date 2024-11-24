@@ -21,5 +21,3 @@ To run **Protect the Planet** on your local machine, follow these steps:
 3. **Open Project**: Open the project file (Protect_the_planet.pro) using Qt Creator.
 4. **Build and Run**: Compile and run the project from Qt Creator.
 
-## Example Pixel Art
-
