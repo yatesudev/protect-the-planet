@@ -1,7 +1,7 @@
 # Protect the Planet
 
 **Protect the Planet** is a space-themed action game developed using C++ and Qt. The player must defend their planet from incoming asteroids, using dynamic controls and strategic movements. The game incorporates pixel art graphics, animations, and an interactive user interface to provide a fun and engaging experience.
-readme-img.jpeg
+
 
 ## Features
 - **Space-themed Gameplay**: Defend the planet from waves of asteroids.
@@ -19,3 +19,6 @@ To run **Protect the Planet** on your local machine, follow these steps:
    ```
 3. **Open Project**: Open the project file (Protect_the_planet.pro) using Qt Creator.
 4. **Build and Run**: Compile and run the project from Qt Creator.
+
+## Example Pixel Art
+![Example Pixel Art](readme-img.jpeg)
